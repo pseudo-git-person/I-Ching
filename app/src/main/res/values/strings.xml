@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">I Ching</string>
+    <string name="buttonOneText">Instruction</string>
+    <string name="buttonTwoText">My fortune</string>
+    <string name="buttonThreeText">Journal</string>
+    <string name="buttonFourText">Hexagrams</string>
+    <string name="imgOneDescript">mountains</string>
+    <string name="imgTwoDescript">forest</string>
+    <string name="imgThreeDescript">taijitu</string>
+
+    <!-- Strings for Instruction -->.
+    <string name="instructionOneHeader">The Question</string>
+    <string name="instructionOne">There is a question burning in your heart and mind. Think about it and then keep it in your mind, write it down in the question field or on a piece of paper. Writing the question down helps you to focus on the precise subject being asked about, thereby avoiding ambiguity. Be sure to word your question so that it requires a commentary type of answer i.e., do not ask a question that requires a \'yes\' or \'no\' answer. For example, ask \'What if…\' or \'What is this all about…?\'</string>
+    <string name="instructionTwoHeader">Casting the coins</string>
+    <string name="instructionTwo">With your mind focused on the question you\'ve written down, toss three coins. The coins will land with either \'heads\' or \'tails\' facing up.</string>
+    <string name="instructionThreeHeader">Building a Trigram</string>
+    <string name="instructionThree">Each heads is a 3, and each tails is a 2. Add the numbers. If the sum of the points is an odd number the received line is a solid one, if the number is an even number the line is split. Repeat this coin casting process 2 more times, each time placing the next line form on top of the previous one. Having done this 3 times, you will have a 3 line figure known as a trigram.\n \n <b>Example of a trigram:</b></string>
+    <string name="instructionFourHeader">Building a Hexagram</string>
+    <string name="instructionFour">You need to create two trigrams to make a full hexagram. So, create a second trigram using the same process above. When done you will have created a hexagram consisting of a lower trigram (the first one) and an upper trigram (the second one).\n\n <b>Example of a hexagram:</b></string>
+    <string name="instructionFiveHeader">Interpreting the Hexagram</string>
+    <string name="instructionFive">The hexagram you have created contains words of insight pertaining to your question. Seek to apply the words you\'re given to the question you asked, in a sincere and introspective way. Suspend preconceptions that may cloud your vision regarding the subject under consideration. Your intuition will confirm whether or not you have been enlightened.</string>
+
+    <string name="instructionBeforeFortune">1. \t Think about your question or life situation. Do not ask a question that requires a \'yes\' or \'no\' answer. For example, ask \'What if…\' or \'What is this all about…?\n\n2. \t Write it down in the field or keep it in your mind. \n\n3. \t Click on the coins or shake your device to toss them - repeat 6 times. \n\n4. \t Read an interpretation of your hexagram. \n\n5. \t Even i f you do not like the answer remember that the I Ching offers advice, the final decision is yours. \n\n6. \t Do not ask the same question more than once, the first answer is the closest to the truth.</string>
+
+</resources>
