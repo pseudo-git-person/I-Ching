@@ -12,9 +12,8 @@ The list of permissions required by the app can be found in the `AndroidManifest
 
 | Permission | Why it is required |
 | :---: | --- |
-| '<uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />' | Required to load images on an external server (imgur.com). |
-| '<uses-permission android:name="android.permission.INTERNET" />'              | Required to access external server and share content gained in application. |
-| '<uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />' | Required in order for an action to be started by shaking of the device. |
+| 'android.permission.READ_EXTERNAL_STORAGE' | Required to load images on an external server (imgur.com). |
+| 'android.permission.INTERNET'              | Required to access external server and share content gained in application. |
 
  <hr style="border:1px solid gray">
 
