@@ -8,5 +8,6 @@ The instuction of this process is included in one of the activities in this proj
 This application was created in Android Studio IDE and is therfore dedicated for devices with Android operating system.
 The programming language used is kotlin.
 
-#This application is open-source.
+### This application is open-source.
+
 Feel free to message me with any question that might occur to you.
