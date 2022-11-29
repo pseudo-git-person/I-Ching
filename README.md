@@ -5,7 +5,7 @@ The user tosses digital coins and gets one of the 64 hexagrams as a result.
 Each hexagram corresponds to a specific divination.
 The instuction of this process is included in one of the activities in this project.
 
-### I Ching app is available on App Store for free:
+### I Ching app is available on Play Store for free:
 https://play.google.com/store/apps/details?id=com.pseudo.iching
 
 This application was created in Android Studio IDE and is therfore dedicated for devices with Android operating system.
